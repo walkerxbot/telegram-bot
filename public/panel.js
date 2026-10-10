@@ -2035,7 +2035,7 @@ _0xC = Object.freeze(Object.assign({}, _0xC, {
     supReply: (d) => supReply(d.id),
     supClose: (d) => supClose(d.id),
 
-    creatorSupport: () => openCreatorChat(),
+    creatorSupport: () => window.open('https://t.me/MI6XW', '_blank', 'noopener'),
     creatorSend: () => creatorSend(),
     creatorUpdateGo: () => {
       creatorDismissUpdateIfChecked();
