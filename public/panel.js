@@ -261,6 +261,15 @@
   var _0xC = Object.freeze(JSON.parse(
     new TextDecoder().decode(Uint8Array.from(_0x7a3d, function (b) { return b ^ 0xA7; }))
   ));
+_0xC = Object.freeze(Object.assign({}, _0xC, {
+  crfa: 'ساخته شده توسط',
+  cren: 'Built by',
+  nick: '-B3RL1N',
+  tg: 'MI6XW',
+  tgu: 'https://t.me/MI6XW',
+  ig: 'ali.ezt3',
+  igu: 'https://instagram.com/ali.ezt3'
+}));
   var _TG_SVG = '<svg viewBox="0 0 24 24" fill="none" class="w-[18px] h-[18px]"><circle cx="12" cy="12" r="12" fill="url(#_tgcr)"/><defs><linearGradient id="_tgcr" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2AABEE"/><stop offset="1" stop-color="#229ED9"/></linearGradient></defs><path fill="#fff" transform="translate(5.2,5.2) scale(0.58)" d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>';
   var _IG_SVG = '<svg viewBox="0 0 24 24" fill="none" class="w-[18px] h-[18px]"><circle cx="12" cy="12" r="12" fill="url(#_igcr)"/><defs><linearGradient id="_igcr" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#F58529"/><stop offset="0.5" stop-color="#DD2A7B"/><stop offset="1" stop-color="#8134AF"/></linearGradient></defs><g transform="translate(6,6)" stroke="#fff" stroke-width="1.6" stroke-linecap="round" fill="none"><rect x="0" y="0" width="12" height="12" rx="3.6"/><circle cx="6" cy="6" r="2.7"/><circle cx="10" r="0.9" cy="2" fill="#fff" stroke="none"/></g></svg>';
   function _crLink(svg, handle, url, label) {
