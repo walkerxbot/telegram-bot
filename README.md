@@ -1483,7 +1483,7 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="BRLIN" width="420">
+<a href="https://github.com/walkerxbot"><img src="assets/readme/creator-amirsedighian.svg" alt="-B3RL1N" width="420"></a>
 
 ساخته و پشتیبانی شده توسط BERLIN
 برای ارتباط، پشتیبانی، سفارش توسعه یا گزارش مشکل، روی لوگوها بزنید:
