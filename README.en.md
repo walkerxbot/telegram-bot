@@ -40,7 +40,7 @@
 | 10 | [Development and testing](#10-development-and-testing) | For contributors |
 | 11 | [Screenshot gallery](#11-screenshot-gallery) | Every screen |
 | 12 | [Troubleshooting](#12-troubleshooting) | Common errors |
-| 13 | [Creator and contact](#13-creator-and-contact) | aMirsEdighian |
+| 13 | [Creator and contact](#13-creator-and-contact) | BERLIN |
 
 ---
 
@@ -158,8 +158,8 @@ node -v   # must be 22.16.0 or newer
 <summary><b>▸ Step 2 — Clone the source and install dependencies</b></summary>
 
 ```bash
-git clone https://github.com/amirsedighian071-stack/telegram-bot-panel-v2.git
-cd telegram-bot-panel-v2
+git clone https://github.com/walkerxbot/telegram-bot.git
+cd telegram-bot
 npm ci
 ```
 
@@ -1020,15 +1020,15 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="aMirsEdighian" width="420">
+<img src="assets/readme/creator-amirsedighian.svg" alt="BERLIN" width="420">
 
-### Built and maintained by **aMirsEdighian**
+### Built and maintained by **BERLIN**
 
 For support, custom development or bug reports, click a logo:
 
-<a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @developer_as" height="76"></a>
+<a href="https://t.me/MI6XW"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @MI6XW" height="76"></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/x.amirrezaa1"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @x.amirrezaa1" height="76"></a>
+<a href="https://instagram.com/ali.ezt3"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @ali.ezt3" height="76"></a>
 
 <a href="README.md"><img src="assets/readme/lang-fa.svg" alt="خواندن به فارسی" height="42"></a>
 
