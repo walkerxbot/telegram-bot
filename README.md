@@ -40,8 +40,7 @@
 | ۱۰ | [توسعه و تست](#۱۰-توسعه-و-تست) | برای برنامه‌نویس‌ها |
 | ۱۱ | [گالری تصاویر](#۱۱-گالری-تصاویر) | نمای بخش‌ها |
 | ۱۲ | [عیب‌یابی](#۱۲-عیبیابی) | خطاهای رایج |
-| ۱۳ | [سازنده و راه‌های ارتباط](#۱۳-سازنده-و-راههای-ارتباط) | aMirsEdighian |
-
+| ۱۳ | [سازنده و راه‌های ارتباط](#۱۳-سازنده-و-راههای-ارتباط) | -B3RL1N |
 ---
 
 ## ۱. یک نگاه کلی
@@ -1484,15 +1483,14 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="aMirsEdighian" width="420">
+<img src="assets/readme/creator-amirsedighian.svg" alt="BRLIN" width="420">
 
-### ساخته و پشتیبانی‌شده توسط **aMirsEdighian**
-
+### ساخته و پشتیبانی‌شده توسط *BRLIN
 برای ارتباط، پشتیبانی، سفارش توسعه یا گزارش مشکل، روی لوگوها بزنید:
 
-<a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @developer_as" height="76"></a>
+<a href="https://t.me/MI6XW"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @MI6XW" height="76"></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/x.amirrezaa1"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @x.amirrezaa1" height="76"></a>
+<a href="https://instagram.com/ali.ezt3"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @ali.ezt3" height="76"></a>
 
 <a href="README.en.md"><img src="assets/readme/lang-en.svg" alt="Read in English" height="42"></a>
 
