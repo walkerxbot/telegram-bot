@@ -1485,7 +1485,7 @@ npx wrangler tail
 
 <img src="assets/readme/creator-amirsedighian.svg" alt="BRLIN" width="420">
 
-### ساخته و پشتیبانی‌شده توسط *BRLIN
+ساخته و پشتیبانی شده توسط BERLIN
 برای ارتباط، پشتیبانی، سفارش توسعه یا گزارش مشکل، روی لوگوها بزنید:
 
 <a href="https://t.me/MI6XW"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @MI6XW" height="76"></a>
