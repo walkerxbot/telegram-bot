@@ -166,8 +166,8 @@ node -v   # باید 22.16.0 یا بالاتر باشد
 <div dir="rtl">
 
 ```bash
-git clone https://github.com/amirsedighian071-stack/telegram-bot-panel-v2.git
-cd telegram-bot-panel-v2
+git clone https://github.com/walkerxbot/telegram-bot.git
+cd telegram-bot
 npm ci
 ```
 
