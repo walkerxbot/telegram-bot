@@ -1020,7 +1020,7 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="BERLIN" width="420">
+<a href="https://github.com/walkerxbot"><img src="assets/readme/creator-amirsedighian.svg" alt="-B3RL1N" width="420"></a>
 
 ### Built and maintained by **BERLIN**
 
